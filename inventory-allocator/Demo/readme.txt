@@ -1,3 +1,5 @@
+This Inventory Allocation program can be verified by running the .jar file. 
+
 Steps to execute Jar File:
 
 1) Download the .jar file 
