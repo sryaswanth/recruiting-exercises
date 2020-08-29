@@ -6,4 +6,4 @@ Steps to execute Jar File:
 2) Open Command Prompt and change the path to the directory where the .jar file is downloaded
 3) Enter the command "java -jar InventoryAllocationProgram.jar" to execute the program.
 
-Please take a look at the Jat file execution documentation for more details.
+Please take a look at the 'Jar file execution documentation' for more details.
