@@ -6,6 +6,7 @@ This program determines the most cost effective shipment for an inventory distri
 
 Unit Testing:
   This program has been tested with pre made unit test cases and assertions. (JUnit)
+  A totoal of 60 test cases were written for this program. These test cases can be found in the InventoryAllocatorTest.java file.
 
 Edge Case Handling:
 
