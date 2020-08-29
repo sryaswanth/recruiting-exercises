@@ -18,7 +18,7 @@ Edge Case Handling:
     output : []
     
  
-For more information abpout the source code, please refer the Source code information documentation file.
+For more information about the source code, please refer the Source code information documentation file.
   
  
 
