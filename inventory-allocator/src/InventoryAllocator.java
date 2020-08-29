@@ -1,6 +1,6 @@
 /*Comment start
  
- *This class receives the input string from Main method method and splits the
+ *This class receives the input string from Main method method and splits the input string into user requirement and warehouse details
  
  		*Tasks performed in this class include the following:
  
