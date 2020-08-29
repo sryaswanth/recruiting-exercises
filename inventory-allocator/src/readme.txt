@@ -17,6 +17,10 @@ Edge Case Handling:
 2) If user input is empty, then output returns an empty list.
     Example: {  }, [{ name: owd, inventory: { apple: 1 } }]
     output : []
+
+3) If a same item is entered twice in the inventory input, then the count of that item in that inventory is added up and updated.
+    Example:{ apple: 10, orange:5 }, [{ name: owd, inventory: { apple: 5,apple:5,orange:4 } }, { name: dm, inventory: { apple: 5, orange:5 }}]
+    output: [ { owd: {orange: 4, apple: 10}},{ dm: {orange: 1}}]
     
  
 For more information about the source code, please refer the Source code information documentation file in the 'src' folder.
