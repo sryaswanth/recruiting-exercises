@@ -13,7 +13,6 @@ comment ends*/
 
 import java.util.Scanner;
 
-import junit.framework.ComparisonFailure;
 
 public class MainClass 
 {
